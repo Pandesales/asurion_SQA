@@ -9,7 +9,12 @@ public class scenario_1 {
 
     public static void main (String[]args) throws InterruptedException{
 
-        System.out.println("Software test automation by Angelica Desales");
+        /* SCENARIO 1
+         * DATE: JULY 13, 2023
+         * NAME: ANGELICA D. DESALES
+         * UNIVERSITY: FEU-INSTITUTE OF TECHNOLOGY
+         * ASSESSMENT: SQA CODING INTERVIEW USING JAVA WITH SELENIUM INTEGRATION
+         */
 
         //Browser driver exe
         System.setProperty("webdriver.chrome.driver","C:\\Users\\Angelica Desales\\OneDrive\\Desktop\\automation\\chromedriver\\chromedriver.exe");
