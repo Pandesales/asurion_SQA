@@ -1,0 +1,90 @@
+<component name="libraryTable">
+  <library name="opentelemetry-sdk-logs-1.26.0-alpha">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-sdk-logs-1.26.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-sdk-extension-autoconfigure-spi-1.26.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-buffer-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/guava-31.1-jre.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-edge-driver-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-transport-classes-epoll-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-http-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-api-events-1.26.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-transport-native-unix-common-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-extension-incubator-1.26.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-devtools-v85-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-codec-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/auto-service-annotations-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-api-1.26.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-sdk-1.26.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/byte-buddy-1.14.4.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-devtools-v113-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-api-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-transport-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-ie-driver-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/reactive-streams-1.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/auto-service-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/jsr305-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-chrome-driver-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-handler-proxy-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/checker-qual-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-devtools-v114-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/error_prone_annotations-2.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-resolver-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/jakarta.activation-1.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-sdk-metrics-1.26.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-firefox-driver-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/async-http-client-netty-utils-2.12.3.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/async-http-client-2.12.3.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/auto-common-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-codec-http-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/failsafe-3.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-codec-socks-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-handler-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-sdk-common-1.26.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-sdk-extension-autoconfigure-1.26.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-chromium-driver-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-sdk-trace-1.26.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/commons-exec-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-transport-classes-kqueue-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-api-logs-1.26.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-semconv-1.26.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-context-1.26.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-devtools-v112-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-common-4.1.92.Final.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/netty-reactive-streams-2.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/opentelemetry-exporter-logging-1.26.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-java-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-json-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-manager-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-remote-driver-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-safari-driver-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-support-4.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/slf4j-api-2.0.7.jar!/" />
+      <root url="file://$USER_HOME$/OneDrive/Desktop/automation/java_selenium" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-devtools-v85-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-chrome-driver-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-devtools-v112-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-api-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-ie-driver-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-devtools-v114-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-http-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-firefox-driver-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-chromium-driver-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-edge-driver-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-devtools-v113-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-json-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-manager-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-remote-driver-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-safari-driver-4.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/automation/java_selenium/selenium-support-4.10.0-sources.jar!/" />
+      <root url="file://$USER_HOME$/OneDrive/Desktop/automation/java_selenium" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/OneDrive/Desktop/automation/java_selenium" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/OneDrive/Desktop/automation/java_selenium" recursive="false" type="SOURCES" />
+  </library>
+</component>
